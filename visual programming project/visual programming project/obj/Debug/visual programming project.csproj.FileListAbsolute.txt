@@ -1,0 +1,16 @@
+C:\Users\mudas\OneDrive\Documents\visual programming project\visual programming project\obj\Debug\visual programming project.csproj.AssemblyReference.cache
+C:\Users\mudas\OneDrive\Documents\visual programming project\visual programming project\obj\Debug\visual_programming_project.Form1.resources
+C:\Users\mudas\OneDrive\Documents\visual programming project\visual programming project\obj\Debug\visual_programming_project.Properties.Resources.resources
+C:\Users\mudas\OneDrive\Documents\visual programming project\visual programming project\obj\Debug\visual programming project.csproj.GenerateResource.cache
+C:\Users\mudas\OneDrive\Documents\visual programming project\visual programming project\obj\Debug\visual programming project.csproj.CoreCompileInputs.cache
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\obj\Debug\visual programming project.csproj.AssemblyReference.cache
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\obj\Debug\visual programming project.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\obj\Debug\visual_programming_project.Form1.resources
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\obj\Debug\visual_programming_project.Properties.Resources.resources
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\obj\Debug\visual programming project.csproj.GenerateResource.cache
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\obj\Debug\visual programming project.csproj.CoreCompileInputs.cache
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\bin\Debug\visual programming project.exe.config
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\bin\Debug\visual programming project.exe
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\bin\Debug\visual programming project.pdb
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\obj\Debug\visual programming project.exe
+C:\Users\aliyu\OneDrive\Pictures\visual programming project\visual programming project\obj\Debug\visual programming project.pdb
